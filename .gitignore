@@ -1,3 +1,13 @@
+<<<<<<< HEAD
+# Ignora la carpeta node_modules
+node_modules
+
+# Ignora todos los archivos de texto
+*.txt
+
+# Ignora los archivos relacionados a API keys
+.env
+=======
 # Logs
 logs
 *.log
@@ -128,3 +138,4 @@ dist
 .yarn/build-state.yml
 .yarn/install-state.gz
 .pnp.*
+>>>>>>> bee4b46a57fb2be75e14d1f9af8b3921cb3c791e

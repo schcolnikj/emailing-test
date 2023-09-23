@@ -1,2 +1,3 @@
-# emailing-test
-Email Services: Backend test.
+# Email services:
+
+A backend techincal test by Juan Schcolnik
